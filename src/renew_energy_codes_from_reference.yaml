@@ -1,0 +1,57 @@
+# A referenced codebook of TradeNet about product codes (HS).
+# *convention*: wrap dictionary items in array-like container.
+# A source reference about renewable energy codes: https://www.sciencedirect.com/science/article/pii/S0960148118308437
+#
+# Mapping HS codes by: https://unstats.un.org/unsd/trade/classifications/correspondence-tables.asp
+# Note: the HS code version is 2007 with 6-digits bases
+#
+# 1st: the wind industry
+wind:
+ 730820: 'Towers and lattice masts, of Iron or Steel'
+ 730820: 'Towers and lattice masts, of Iron or Steel' 
+ 841290: 'Parts of Other Engines and Motors' 
+ 848210: 'Ball Bearings' 
+ 848220: 'Tapered Roller Bearings, Including Cone and Tapered Roller Assemblies'
+ 848230: 'Spherical Roller Bearings'
+ 848240: 'Needle Roller Bearings' 
+ 848250: 'Other Cylindrical Roller Bearings' 
+ 848280: 'Other Bearings, Including Combined Ball or Roller Bearings' 
+ 848340: 'Gears and Gearing; Ball Screws; Gear Boxes and Other Speed Changers'
+ 850161: 'Ac Generators of an Output Not Exceeding 75kva' 
+ 850162: 'Ac Generators of an Output Exceeding 75kva But Not Exceeding 375kva'
+ 850163: 'Ac Generators of an Output Exceeding 375kva But Not Exceeding 750kva'
+ 850164: 'Ac Generators of an Output Exceeding 750kva'
+ 850230: 'Other Generating Sets'
+ 850300: 'Parts, of Motors, of Generators, of Generating Sets, of Rotary Converters'
+ 850421: 'Liquid Dielectric Transformers, Not Exceeding 650kva' 
+ 850422: 'Liquid Dielectric Transformers, Power Handling Capacity 65010,000kva'
+ 850423: 'Liquid Dielectric Transformers, Exceeding 10, 000kva' 
+ 850431: 'Other Transformers, Power Handling Capacity Not Exceeding 1kva' 
+ 850432: 'Other Transformers, Exceeding 1kva But Not Exceeding 16kva'
+ 850433: 'Other Transformers, Exceeding 16kva But Not Exceeding 500kva'
+ 850434: 'Other Transformers, Power Handling Capacity Exceeding 500kva'
+ 854459: 'Other Electric Conductors, Exceeding 80v But Not Exceeding 1, 000v'
+ 854460: 'Other Electric Conductors, for a Voltage Exceeding 1, 000v'
+ 890790: 'Other floating structures'
+ 902830: 'Electricity meters'
+ 903020: 'Cathode-ray oscilloscopes and cathode-ray oscillographs'
+ 903031: 'Multimeters'
+ 903081: 'With a recording device(Volt Meters, Am Meters, Circuit Testers)'
+# 2nd: the solar industry
+solar:
+ 700991: 'Unframed Glass mirrors'
+ 700992: 'Framed Glass mirrors' 
+ 711590: 'Other articles of precious metal or of metal clad with precious metal'
+ 732290: 'Solar Collector, Air Heater, Hot Air Distributor, and Parts Thereof' 
+ 830630: 'Photograph, picture or similar frames; mirrors; and parts thereof, of Base Metal'
+ 841280: 'Other Engines and Motors'
+ 841919: 'Other Instantaneous or Storage Water Heaters, Non-electric'
+ 841950: 'Heat Exchange Units'
+ 841989: 'Other Apparatus for Treatment of Materials By Temperature'
+ 841990: 'Parts of Apparatus for Treatment of Materials By Temperature' 
+ 850230: 'Other Generating Sets' 
+ 850440: 'Static converters' 
+ 854140: 'Photosensitive Semiconductor Devices; Light Emitting Diodes'
+ 900190: 'Other: prisms, mirrors and other optical elements, of any material, unmounted, other than such elements ofglass not optically worked'
+ 900290: 'Other Optical Elements, of Any Material, Mounted'
+ 900580: 'Other instruments: Monoculars, Other Optical Telescopes; Other Astronomical InstrumentsReferences'

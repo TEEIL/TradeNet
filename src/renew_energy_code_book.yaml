@@ -1,0 +1,26 @@
+# A demo codebook of TradeNet about product codes (HS).
+# *convention*: wrap dictionary items in array-like container.
+# desc(product code description), subset(sub-level product codes)
+#
+# A sample query website: https://www.zauba.com/export-RENEWABLE+ENERGY+EQUIPMENT/hs-code-8412-hs-code.html
+#
+
+8419:
+ desc: 'Machinery, Plat or Laboratory Equipment, Whether Or Not Electrically Heated'
+ subset:
+  841919: 'Other'
+8504:
+ desc: 'Electrical Transformers, Static Converters and Inductors'
+8541: 
+ desc: 'Diodes, Transistors and Semi-Conductor Devices; Photosensitive Semi-Conductor Devices, including Photovoltaic C'
+ subset:
+  854140: 'Solar Cells Whether Or Not Assembled in Modules or Panels'
+  854190: 'Parts'
+8502:
+ desc: 'Electric Generating Sets and Rotary Converters'
+ subset:
+  850231: 'Wind-powered'
+9405:
+ desc: 'Lamps and Lighting Fittings including Searchlights and Spotlights And Parts Thereof, Not Elsewhere Specified Or Include'
+ subset:
+  940550: 'Solar Lanterns Or Lamps'

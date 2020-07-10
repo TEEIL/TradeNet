@@ -1,0 +1,5 @@
+# A sample code_book configuration, note the standardized format with their components.
+8419:
+ desc: 'Machinery, Plat or Laboratory Equipment, Whether Or Not Electrically Heated'
+8504:
+ desc: 'Electrical Transformers, Static Converters and Inductors'
